@@ -1,0 +1,125 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prime Montagens Planejadas | Caruaru-PE</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #121212;
+      color: #fff;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #2b2b2b, #1a1a1a);
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: #d4af37;
+      margin-bottom: 10px;
+      font-size: 28px;
+    }
+    header p {
+      font-size: 16px;
+      opacity: 0.9;
+    }
+    section {
+      padding: 25px 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+    h2 {
+      color: #d4af37;
+      font-size: 22px;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      background: #1f1f1f;
+      margin-bottom: 10px;
+      padding: 14px;
+      border-radius: 8px;
+      font-size: 15px;
+    }
+    .cta {
+      text-align: center;
+      padding: 35px 20px;
+      background: #1a1a1a;
+    }
+    .cta p {
+      margin-bottom: 20px;
+      font-size: 16px;
+    }
+    .whatsapp-btn {
+      background: #25d366;
+      color: #fff;
+      padding: 18px 28px;
+      text-decoration: none;
+      font-size: 20px;
+      border-radius: 50px;
+      display: inline-block;
+      font-weight: bold;
+      width: 100%;
+      max-width: 320px;
+    }
+    .whatsapp-float {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #25d366;
+      color: #fff;
+      padding: 16px 18px;
+      border-radius: 50px;
+      font-size: 18px;
+      text-decoration: none;
+      font-weight: bold;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+    }
+    footer {
+      background: #0d0d0d;
+      text-align: center;
+      padding: 15px;
+      font-size: 13px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body><header>
+  <h1>Prime Montagens Planejadas</h1>
+  <p>Montagem profissional de móveis planejados em Caruaru – PE</p>
+</header><section>
+  <h2>Serviços</h2>
+  <ul>
+    <li>✔️ Montagem de móveis planejados</li>
+    <li>✔️ Desmontagem e remontagem</li>
+    <li>✔️ Ajustes e nivelamento</li>
+    <li>✔️ Acabamento profissional</li>
+    <li>✔️ Manutenção e reparos</li>
+  </ul>
+</section><section>
+  <h2>Por que escolher?</h2>
+  <ul>
+    <li>🔹 Atendimento rápido pelo WhatsApp</li>
+    <li>🔹 Profissional experiente</li>
+    <li>🔹 Trabalho limpo e organizado</li>
+    <li>🔹 Atendo Caruaru e região</li>
+  </ul>
+</section><section class="cta">
+  <h2>Orçamento imediato</h2>
+  <p>Clique no botão abaixo e fale direto comigo agora</p>
+  <a class="whatsapp-btn" href="https://wa.me/5581991530917" target="_blank">📲 Chamar no WhatsApp</a>
+</section><a class="whatsapp-float" href="https://wa.me/5581991530917" target="_blank">💬 WhatsApp</a>
+
+<footer>
+  © 2025 Prime Montagens Planejadas • Caruaru-PE
+</footer></body>
+</html>
